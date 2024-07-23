@@ -63,6 +63,7 @@
             btnCreate.TabIndex = 2;
             btnCreate.Text = "New";
             btnCreate.UseVisualStyleBackColor = true;
+            btnCreate.Click += btnCreate_Click;
             // 
             // btnUpdate
             // 
@@ -72,6 +73,7 @@
             btnUpdate.TabIndex = 3;
             btnUpdate.Text = "Edit";
             btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 

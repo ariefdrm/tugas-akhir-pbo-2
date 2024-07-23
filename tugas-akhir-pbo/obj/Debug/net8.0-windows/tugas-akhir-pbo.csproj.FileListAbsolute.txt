@@ -18,3 +18,6 @@ C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\bin\Debug\net8.0-
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas-akhir-pbo.csproj.AssemblyReference.cache
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas-ak.5092A34F.Up2Date
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.btb.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas-akhir-pbo.sourcelink.json
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.Create.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.update.resources
