@@ -47,8 +47,6 @@ namespace tugas_akhir_pbo
                     Encoding.UTF8,
                     "application/json");
 
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-
                 // Http Put request
                 var response = await client.PutAsync(url, content);
 
