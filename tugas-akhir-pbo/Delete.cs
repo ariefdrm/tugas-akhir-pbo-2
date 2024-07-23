@@ -30,35 +30,44 @@ namespace tugas_akhir_pbo
         {
             var id = txtId.Text;
             var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data/" + id;
-            List<personal_data> personal_datas = [];
+            // List<personal_data> personal_datas = [];
 
-            using (HttpClient client = new HttpClient())
+            try
             {
-                // Delete request
-                var responDelete = client.DeleteAsync(url).GetAwaiter().GetResult();
-
-                if (responDelete.IsSuccessStatusCode)
+                using (HttpClient client = new HttpClient())
                 {
-                    MessageBox.Show($"Object with ID {id} deleted successfully");
-                }
-                else
-                {
-                    MessageBox.Show($"Failed to delete with ID {id}. status code : {responDelete.StatusCode}");
-                }
+                    // Delete request
+                    var requestDelete = await client.DeleteAsync(url);
 
+                    if (requestDelete.IsSuccessStatusCode)
+                    {
+                        MessageBox.Show($"Object with ID {id} deleted successfully");
+                        getData();
+                    }
+                    else
+                    {
+                        MessageBox.Show($"Failed to delete with ID {id}. status code : {requestDelete.StatusCode}");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
 
-        private void getData()
+        private async void getData()
         {
             var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
             List<personal_data> personal_Datas = [];
 
+            // Get request JSon
             using (HttpClient client = new HttpClient())
             {
-                var ResponString = client.GetAsync(url).GetAwaiter().GetResult();
-                var ResponBody = ResponString.Content.ReadAsStringAsync().Result;
+                var request = await client.GetAsync(url);
+                var ResponBody = request.Content.ReadAsStringAsync().Result;
 
+                // Deserialize Array JSon
                 var JsonData = JsonConvert.DeserializeObject<List<personal_data>>(ResponBody);
                 dataGridView1.DataSource = JsonData;
             }

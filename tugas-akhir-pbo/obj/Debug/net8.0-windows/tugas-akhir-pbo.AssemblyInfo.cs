@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tugas-akhir-pbo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b911bc52dc15bf27b20f750a583716a2d63f6cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("tugas-akhir-pbo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tugas-akhir-pbo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
