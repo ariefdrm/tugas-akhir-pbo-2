@@ -9,26 +9,31 @@ namespace tugas_akhir_pbo
             InitializeComponent();
         }
 
-        private async void Form1_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
             GetData();
         }
 
+
+        private void btnRefresh_Click(object sender, EventArgs e)
+        {
+            GetData();
+        }
         private void btnDelete_Click(object sender, EventArgs e)
         {
             btb delete = new btb();
             delete.ShowDialog();
         }
 
-        private void btnRefresh_Click(object sender, EventArgs e)
-        {
-            GetData();
-        }
-
         private void btnCreate_Click(object sender, EventArgs e)
         {
             Create create = new Create();
             create.ShowDialog();
+        }
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            update update = new update();
+            update.ShowDialog();
         }
         public async void GetData()
         {
@@ -45,10 +50,5 @@ namespace tugas_akhir_pbo
             }
         }
 
-        private void btnUpdate_Click(object sender, EventArgs e)
-        {
-            update update = new update();
-            update.ShowDialog();
-        }
     }
 }

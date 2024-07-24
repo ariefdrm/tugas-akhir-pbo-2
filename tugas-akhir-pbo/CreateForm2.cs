@@ -13,37 +13,36 @@ using Newtonsoft.Json;
 
 namespace tugas_akhir_pbo
 {
-    public partial class Create : Form
+    public partial class CreateForm2 : Form
     {
-        personal_data personal_Data = new personal_data();
-        public Create()
+        public CreateForm2()
         {
             InitializeComponent();
         }
 
-        private void Create_Load(object sender, EventArgs e)
+        private void CreateForm2_Load(object sender, EventArgs e)
         {
             LoadData();
+
         }
 
         private async void btnConfirm_Click(object sender, EventArgs e)
         {
-            // membuat objek personal data
-            var dataPersonal = new personal_data()
+            var products = new Products()
             {
                 name = txtName.Text,
-                address = txtAddress.Text,
-                job = txtJob.Text,
-                email = txtEmail.Text,
+                price = txtPrice.Text,
+                stocks = int.Parse(txtStocks.Text),
+                description = txtDescription.Text,
                 createdAt = DateTime.Now,
             };
 
             // URL endpoint API
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
+            var url = $"https://669f34ddb132e2c136fd0224.mockapi.io/products";
 
             using (HttpClient client = new HttpClient())
             {
-                var response = await client.PostAsJsonAsync(url, dataPersonal);
+                var response = await client.PostAsJsonAsync(url, products);
 
                 if (response.IsSuccessStatusCode)
                 {
@@ -57,18 +56,18 @@ namespace tugas_akhir_pbo
             }
         }
 
-        private void LoadData()
+        private async void LoadData()
         {
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
-            List<personal_data> personal_Datas = [];
+            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/products";
+            List<Products> products = [];
 
             using (HttpClient client = new HttpClient())
             {
-                var request = client.GetAsync(url).GetAwaiter().GetResult();
-                var ResponBody = request.Content.ReadAsStringAsync().Result;
+                var request = await client.GetAsync(url);
+                var ResponeBody = request.Content.ReadAsStringAsync().Result;
 
-                var JsonData = JsonConvert.DeserializeObject<List<personal_data>>(ResponBody);
-                dataGridView1.DataSource = JsonData;
+                var JsonData = JsonConvert.DeserializeObject<List<Products>>(ResponeBody);
+                Dgv1.DataSource = JsonData;
             }
         }
     }

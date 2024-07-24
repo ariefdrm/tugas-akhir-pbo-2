@@ -10,26 +10,31 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace tugas_akhir_pbo
 {
-    public partial class btb : Form
+    public partial class DeleteForm2 : Form
     {
-        public btb()
+        public DeleteForm2()
         {
             InitializeComponent();
         }
 
-        private void Delete_Load(object sender, EventArgs e)
+
+
+        private void DeleteForm2_Load(object sender, EventArgs e)
         {
-            getData();
+            LoadData();
         }
 
-        private async void button1_Click(object sender, EventArgs e)
+        private async void btnDelete_Click(object sender, EventArgs e)
         {
-            var id = txtId.Text;
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data/" + id;
+            var products = new Products()
+            {
+                id = txtId.Text,
+            };
+
+            var url = $"https://669f34ddb132e2c136fd0224.mockapi.io/products/{products.id}";
 
             try
             {
@@ -40,12 +45,12 @@ namespace tugas_akhir_pbo
 
                     if (requestDelete.IsSuccessStatusCode)
                     {
-                        MessageBox.Show($"Object with ID {id} deleted successfully");
-                        getData();
+                        MessageBox.Show($"Object with ID {products.id} deleted successfully");
+                        LoadData();
                     }
                     else
                     {
-                        MessageBox.Show($"Failed to delete with ID {id}. status code : {requestDelete.StatusCode}");
+                        MessageBox.Show($"Failed to delete with ID {products.id}. status code : {requestDelete.StatusCode}");
                     }
                 }
             }
@@ -53,28 +58,22 @@ namespace tugas_akhir_pbo
             {
                 MessageBox.Show(ex.Message);
             }
+
         }
 
-        private async void getData()
+        private async void LoadData()
         {
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
-            List<personal_data> personal_Datas = [];
+            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/products";
+            List<Products> products = [];
 
-            // Get request JSon
             using (HttpClient client = new HttpClient())
             {
                 var request = await client.GetAsync(url);
-                var ResponBody = request.Content.ReadAsStringAsync().Result;
+                var ResponeBody = request.Content.ReadAsStringAsync().Result;
 
-                // Deserialize Array JSon
-                var JsonData = JsonConvert.DeserializeObject<List<personal_data>>(ResponBody);
+                var JsonData = JsonConvert.DeserializeObject<List<Products>>(ResponeBody);
                 dataGridView1.DataSource = JsonData;
             }
-        }
-
-        private void btnRefresh_Click(object sender, EventArgs e)
-        {
-            getData();
         }
     }
 }

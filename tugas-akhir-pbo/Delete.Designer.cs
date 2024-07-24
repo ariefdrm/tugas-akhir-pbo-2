@@ -38,6 +38,11 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.AllowUserToOrderColumns = true;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.DisplayedCellsExceptHeader;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.DisplayedCellsExceptHeaders;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(12, 12);
             dataGridView1.Name = "dataGridView1";
@@ -47,7 +52,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(293, 325);
+            label1.Location = new Point(259, 325);
             label1.Name = "label1";
             label1.Size = new Size(17, 15);
             label1.TabIndex = 1;
@@ -55,14 +60,14 @@
             // 
             // txtId
             // 
-            txtId.Location = new Point(325, 322);
+            txtId.Location = new Point(291, 322);
             txtId.Name = "txtId";
             txtId.Size = new Size(217, 23);
             txtId.TabIndex = 5;
             // 
             // button1
             // 
-            button1.Location = new Point(347, 351);
+            button1.Location = new Point(313, 351);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 6;
@@ -72,7 +77,7 @@
             // 
             // btnRefresh
             // 
-            btnRefresh.Location = new Point(442, 351);
+            btnRefresh.Location = new Point(408, 351);
             btnRefresh.Name = "btnRefresh";
             btnRefresh.Size = new Size(75, 23);
             btnRefresh.TabIndex = 7;
