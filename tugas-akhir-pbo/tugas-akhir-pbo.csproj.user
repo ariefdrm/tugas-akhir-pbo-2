@@ -13,13 +13,25 @@
     <Compile Update="DeleteForm2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="DeleteForm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="EditForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fcreate3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FEdit3.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="mainloby.cs">

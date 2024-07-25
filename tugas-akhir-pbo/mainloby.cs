@@ -22,12 +22,12 @@ namespace tugas_akhir_pbo
 
         private async void LoadForm1()
         {
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
+            string url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
             List<personal_data> personal_Datas = [];
 
             using (HttpClient client = new HttpClient())
             {
-                var request = await client.GetAsync(url);
+                HttpResponseMessage request = await client.GetAsync(url);
                 var ResponBody = request.Content.ReadAsStringAsync().Result;
 
                 var JsonData = JsonConvert.DeserializeObject<List<personal_data>>(ResponBody);
@@ -37,13 +37,12 @@ namespace tugas_akhir_pbo
 
         private async void LoadForm2()
         {
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/products";
+            string url = "https://669f34ddb132e2c136fd0224.mockapi.io/products";
             List<Products> products = [];
 
             using (HttpClient client = new HttpClient())
             {
-                var request = await client.GetAsync(url);
-                var response = request.Content.ReadAsStringAsync().Result;
+                var response = (await client.GetAsync(url)).Content.ReadAsStringAsync().Result;
 
                 var JsonData = JsonConvert.DeserializeObject<List<Products>>(response);
                 dataGridView2.DataSource = JsonData;
@@ -52,7 +51,17 @@ namespace tugas_akhir_pbo
 
         private async void LoadForm3()
         {
+            string url = "https://retoolapi.dev/bqPQIh/Contact";
+            List<Contact> contacts = [];
 
+            using (HttpClient client = new HttpClient())
+            {
+                HttpResponseMessage request = await client.GetAsync(url);
+                string response = request.Content.ReadAsStringAsync().Result;
+
+                var JsonData = JsonConvert.DeserializeObject<List<Contact>>(response);
+                dataGridView3.DataSource = JsonData;
+            }
         }
 
         private void mainloby_Load(object sender, EventArgs e)
@@ -78,6 +87,12 @@ namespace tugas_akhir_pbo
         {
             Form2 form2 = new Form2();
             form2.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.ShowDialog();
         }
     }
 }

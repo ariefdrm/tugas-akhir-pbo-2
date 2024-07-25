@@ -107,6 +107,7 @@
             button3.TabIndex = 6;
             button3.Text = "Form3";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // tmr1
             // 

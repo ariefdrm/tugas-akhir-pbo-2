@@ -54,7 +54,7 @@ namespace tugas_akhir_pbo
 
             using (HttpClient client = new HttpClient())
             {
-                var request = await client.GetAsync(url);
+                HttpResponseMessage request = await client.GetAsync(url);
                 var response = request.Content.ReadAsStringAsync().Result;
 
                 var JsonData = JsonConvert.DeserializeObject<List<Products>>(response);
