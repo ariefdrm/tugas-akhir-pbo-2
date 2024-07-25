@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\deleteform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\deleteform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\personal-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\personal-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\mainloby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\fedit3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\fedit3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\deleteform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\deleteform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\fcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\fcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\fcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\fcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\fedit3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\fedit3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\mainloby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|c:\\users\\arief\\developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AA9F42-7B12-4558-B02C-89524E3C0A5A}|tugas-akhir-pbo\\tugas-akhir-pbo.csproj|solutionrelative:tugas-akhir-pbo\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +58,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form1.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Form1.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form1.cs",
-              "RelativeToolTip": "tugas-akhir-pbo\\Form1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAIAzwDIAAAAgAAAA",
+              "DocumentIndex": 5,
+              "Title": "DeleteForm3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\DeleteForm3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\DeleteForm3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\DeleteForm3.cs [Design]",
+              "RelativeToolTip": "tugas-akhir-pbo\\DeleteForm3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T04:57:44.439Z",
+              "WhenOpened": "2024-07-25T07:47:19.831Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteForm3.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\DeleteForm3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\DeleteForm3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\DeleteForm3.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\DeleteForm3.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawCEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:48:32.86Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fcreate3.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Fcreate3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Fcreate3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Fcreate3.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\Fcreate3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:45:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fcreate3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Fcreate3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Fcreate3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Fcreate3.cs [Design]",
+              "RelativeToolTip": "tugas-akhir-pbo\\Fcreate3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:45:45.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FEdit3.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\FEdit3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\FEdit3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\FEdit3.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\FEdit3.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:45:31.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "update.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\update.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs",
-              "RelativeToolTip": "tugas-akhir-pbo\\update.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAtwDAAAAAAAAAA",
+              "Title": "FEdit3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\FEdit3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\FEdit3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\FEdit3.cs [Design]",
+              "RelativeToolTip": "tugas-akhir-pbo\\FEdit3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:19:06.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T08:45:29.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Form3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form3.cs [Design]",
+              "RelativeToolTip": "tugas-akhir-pbo\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:45:16.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "update.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\update.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\update.cs [Design]",
-              "RelativeToolTip": "tugas-akhir-pbo\\update.cs [Design]",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form3.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Form3.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form3.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\Form3.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA8wDgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:02:09.91Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-25T07:08:08.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainloby.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\mainloby.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs [Design]",
+              "RelativeToolTip": "tugas-akhir-pbo\\mainloby.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:47:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Contact.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Contact.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Contact.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:33:24.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Delete.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Delete.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Delete.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Delete.cs",
-              "RelativeToolTip": "tugas-akhir-pbo\\Delete.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAwwDQAAAAgAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Program.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Program.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Program.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T05:33:01.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T04:38:50.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "personal-data.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\personal-data.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\personal-data.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\personal-data.cs",
-              "RelativeToolTip": "tugas-akhir-pbo\\personal-data.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Title": "mainloby.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs",
+              "RelativeDocumentMoniker": "tugas-akhir-pbo\\mainloby.cs",
+              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\mainloby.cs",
+              "RelativeToolTip": "tugas-akhir-pbo\\mainloby.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAlwF4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T04:58:22.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Create.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Create.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Create.cs",
-              "RelativeToolTip": "tugas-akhir-pbo\\Create.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAtwB0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:33:09.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Create.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Create.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Create.cs [Design]",
-              "RelativeToolTip": "tugas-akhir-pbo\\Create.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:17:32.754Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form1.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Form1.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Form1.cs [Design]",
-              "RelativeToolTip": "tugas-akhir-pbo\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T04:53:35.517Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Delete.cs",
-              "RelativeDocumentMoniker": "tugas-akhir-pbo\\Delete.cs",
-              "ToolTip": "C:\\Users\\arief\\Developer\\tugas\\tugas-akhir-pbo-2\\tugas-akhir-pbo\\Delete.cs [Design]",
-              "RelativeToolTip": "tugas-akhir-pbo\\Delete.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T06:17:03.585Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-24T04:35:44.647Z"
             }
           ]
         }

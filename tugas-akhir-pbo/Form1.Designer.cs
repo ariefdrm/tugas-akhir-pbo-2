@@ -41,14 +41,16 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Poppins Black", 30F);
-            label1.Location = new Point(204, 9);
+            label1.Location = new Point(318, 9);
             label1.Name = "label1";
-            label1.Size = new Size(370, 70);
+            label1.Size = new Size(163, 70);
             label1.TabIndex = 0;
-            label1.Text = "Tugas Akhir Pbo";
+            label1.Text = "Form 1";
             // 
             // dataGridView1
             // 
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.DisplayedCellsExceptHeader;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.DisplayedCellsExceptHeaders;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(58, 82);
             dataGridView1.Name = "dataGridView1";
@@ -106,8 +108,9 @@
             Controls.Add(btnCreate);
             Controls.Add(dataGridView1);
             Controls.Add(label1);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

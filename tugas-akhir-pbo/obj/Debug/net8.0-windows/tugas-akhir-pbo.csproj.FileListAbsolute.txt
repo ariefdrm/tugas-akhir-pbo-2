@@ -44,3 +44,12 @@ C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas-akhir-pbo.pdb
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas-akhir-pbo.genruntimeconfig.cache
 C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\ref\tugas-akhir-pbo.dll
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.mainloby.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.Form2.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.CreateForm2.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.EditForm2.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.DeleteForm2.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.Form3.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.Fcreate3.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.FEdit3.resources
+C:\Users\arief\Developer\tugas\tugas-akhir-pbo-2\tugas-akhir-pbo\obj\Debug\net8.0-windows\tugas_akhir_pbo.DeleteForm3.resources

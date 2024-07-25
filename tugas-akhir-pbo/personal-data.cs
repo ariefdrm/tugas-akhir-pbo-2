@@ -5,6 +5,8 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
+using Newtonsoft.Json;
+
 namespace tugas_akhir_pbo
 {
     internal class personal_data

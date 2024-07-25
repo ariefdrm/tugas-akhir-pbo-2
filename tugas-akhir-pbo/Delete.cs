@@ -30,7 +30,6 @@ namespace tugas_akhir_pbo
         {
             var id = txtId.Text;
             var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data/" + id;
-            // List<personal_data> personal_datas = [];
 
             try
             {

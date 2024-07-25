@@ -15,6 +15,7 @@ namespace tugas_akhir_pbo
 {
     public partial class Create : Form
     {
+        personal_data personal_Data = new personal_data();
         public Create()
         {
             InitializeComponent();
@@ -27,9 +28,6 @@ namespace tugas_akhir_pbo
 
         private async void btnConfirm_Click(object sender, EventArgs e)
         {
-            // URL endpoint API
-            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
-
             // membuat objek personal data
             var dataPersonal = new personal_data()
             {
@@ -39,6 +37,9 @@ namespace tugas_akhir_pbo
                 email = txtEmail.Text,
                 createdAt = DateTime.Now,
             };
+
+            // URL endpoint API
+            var url = "https://669f34ddb132e2c136fd0224.mockapi.io/personal-data";
 
             using (HttpClient client = new HttpClient())
             {
